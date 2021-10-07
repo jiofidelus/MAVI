@@ -1,0 +1,17 @@
+la
+ar 1
+cd
+ar 2
+la
+ar 3
+ad 2
+ar 0
+ji 3
+ra 3
+ea
+fin
+ra 1
+ea
+fin
+end
+imprime le plus petit de deux nombres lus

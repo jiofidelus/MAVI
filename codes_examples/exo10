@@ -1,0 +1,17 @@
+la
+ar 2
+cd
+ar 1
+la
+ar 3
+ad 1
+ar 0
+ji 3
+ra 2
+ea
+fin
+ra 3
+ea
+fin
+end
+impr le plus grand de 2 nbs lus

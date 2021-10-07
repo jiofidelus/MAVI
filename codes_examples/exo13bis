@@ -1,0 +1,20 @@
+li 1
+ar 2
+la
+ar 1
+ar 3
+la
+om
+di
+jd 3
+li 2
+ar 2
+ra 3
+ar 1
+om
+ea
+di
+jd 3
+fin
+end
+lit n puis, n nombres, les empile, puis, les dépile et les affiche

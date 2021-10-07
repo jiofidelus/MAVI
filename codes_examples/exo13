@@ -1,0 +1,11 @@
+li 1
+ar 2
+la
+ar 1
+la
+om
+di
+jd 3
+fin 
+end
+lit n, puis lit n données et les empile
